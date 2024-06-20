@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.plexarr</groupId>
+    <artifactId>run-catching</artifactId>
+    <version>1.0.0</version>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Hugo Guarneri</name>
+            <email>hugoguarneri@gmail.com</email>
+            <organization>Plexarr Labs</organization>
+            <organizationUrl>https://github.com/plexarr-labs</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:https://github.com/plexarr-labs/run-catching.git</connection>
+        <developerConnection>scm:git:https://github.com/plexarr-labs/run-catching.git</developerConnection>
+        <url>https://github.com/plexarr-labs/run-catching/tree/master</url>
+    </scm>
+
+    <dependencies>
+    </dependencies>
+
+</project>
